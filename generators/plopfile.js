@@ -16,7 +16,7 @@ module.exports = (plop) => {
       },
       {
         type: 'add',
-        path: '../src/components/{{pascalCase name}}/styles.js',
+        path: '../src/components/{{pascalCase name}}/styled.js',
         templateFile: 'templates/styled.js.hbs'
       },
       {

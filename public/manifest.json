@@ -1,6 +1,6 @@
 {
-  "name": "twoilerplate",
-  "short_name": "twoilerplate",
+  "name": "My Trips",
+  "short_name": "My Trips",
   "icons": [
     {
       "src": "/img/icon-192.png",
@@ -14,7 +14,7 @@
     }
   ],
   "background_color": "#f7f7f7",
-  "description": "Boilerplate utilizando Typescript, React, NextJS e Styled Components! Made in the Advanced React course. (https://reactavancado.com.br/)",
+  "description": "A simple project to show my favorite spots in the Brazil.",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#f7f7f7"

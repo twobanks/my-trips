@@ -1,3 +1,3 @@
-import { Main } from 'components/'
+import { Map } from 'components'
 
-export default Main
+export default Map
